@@ -1,0 +1,22 @@
+{
+    "version": "0.5.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/wendigo/chrome-protocol-proxy/releases/download/v0.5.0/chrome-protocol-proxy_0.5.0_windows_386.tar.gz",
+            "bin": [
+                "chrome-protocol-proxy.exe"
+            ],
+            "hash": "6d909d7cd2f93709c4326f0f9751918f58a5ea415b187be14c9289184fd76404"
+        },
+        "64bit": {
+            "url": "https://github.com/wendigo/chrome-protocol-proxy/releases/download/v0.5.0/chrome-protocol-proxy_0.5.0_windows_x86_64.tar.gz",
+            "bin": [
+                "chrome-protocol-proxy.exe"
+            ],
+            "hash": "6a59c6d7dfb56b7cee86954b346dc6802a96d8d23dbadb405ba9ec6a191dd27b"
+        }
+    },
+    "homepage": "https://github.com/wendigo/chrome-protocol-proxy",
+    "license": "MIT",
+    "description": "chrome-protocol-proxy is small reverse websocket proxy designed for chrome debugging protocol. It's purpose is to capture messages written to and received from Chrome Debugging Protocol, coalesce requests with responses, unpack messages from Target domain and provide easy to read, colored output."
+}
