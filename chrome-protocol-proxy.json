@@ -6,14 +6,14 @@
             "bin": [
                 "chrome-protocol-proxy.exe"
             ],
-            "hash": "ed68337dc470af64c59e26c6c9bdee96189ae1e0deb4f989412cad3c771be33f"
+            "hash": "629b1322cf21a565c3eef7be1a1f13941f5bb92b202d98b96ee9ea63c0f9a911"
         },
         "64bit": {
             "url": "https://github.com/wendigo/chrome-protocol-proxy/releases/download/v0.5.2/chrome-protocol-proxy_0.5.2_windows_x86_64.tar.gz",
             "bin": [
                 "chrome-protocol-proxy.exe"
             ],
-            "hash": "0fea3aa4ee40b5fd4e1b7a92e4edc2585711c40fe8fee17ce370f08da34b3bf4"
+            "hash": "83e8d284cde9fff4178adcc26f4d8173eaaa5ecea95d2633c7441ce7b01fd9f1"
         }
     },
     "homepage": "https://github.com/wendigo/chrome-protocol-proxy",
