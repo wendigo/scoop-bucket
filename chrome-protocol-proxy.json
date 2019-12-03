@@ -1,19 +1,19 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/wendigo/chrome-protocol-proxy/releases/download/v0.5.0/chrome-protocol-proxy_0.5.0_windows_386.tar.gz",
+            "url": "https://github.com/wendigo/chrome-protocol-proxy/releases/download/v0.5.1/chrome-protocol-proxy_0.5.1_windows_386.tar.gz",
             "bin": [
                 "chrome-protocol-proxy.exe"
             ],
-            "hash": "6d909d7cd2f93709c4326f0f9751918f58a5ea415b187be14c9289184fd76404"
+            "hash": "668ec40225fe8c73af6ffc96ebee0f2c2672c58fba40fdf115b1d506cd043920"
         },
         "64bit": {
-            "url": "https://github.com/wendigo/chrome-protocol-proxy/releases/download/v0.5.0/chrome-protocol-proxy_0.5.0_windows_x86_64.tar.gz",
+            "url": "https://github.com/wendigo/chrome-protocol-proxy/releases/download/v0.5.1/chrome-protocol-proxy_0.5.1_windows_x86_64.tar.gz",
             "bin": [
                 "chrome-protocol-proxy.exe"
             ],
-            "hash": "6a59c6d7dfb56b7cee86954b346dc6802a96d8d23dbadb405ba9ec6a191dd27b"
+            "hash": "8afc4d95d5961f489abeb42dff7d9f55c4388999d2de7135ea3c36f3d594d6b8"
         }
     },
     "homepage": "https://github.com/wendigo/chrome-protocol-proxy",
